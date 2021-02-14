@@ -103,3 +103,14 @@ html, body {
     font-size: 4em;
     margin: 1rem;
 }
+
+/* Emoji */
+
+.fun {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.gif {
+    max-width: 100%;
+}
