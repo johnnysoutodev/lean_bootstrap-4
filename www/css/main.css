@@ -56,3 +56,10 @@ html, body {
     text-shadow: 1px 1px 10px #000;
     padding-bottom: 1rem;
 }
+
+/* Jumbotron */
+
+.jumbotron {
+    padding: 1rem;
+    border-radius: 0;
+}
