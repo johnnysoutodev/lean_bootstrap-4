@@ -17,6 +17,12 @@ html, body {
     border: 1px solid #563d7c;
 }
 
+/* Page Utility */
+
+.padding {
+    padding-bottom: 2rem;
+}
+
 /* Navigation */
 
 .navbar {
